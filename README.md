@@ -1,2 +1,2 @@
-# helloword2
-just another repository
+# 学习git
+- 看demo
